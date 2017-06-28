@@ -4,8 +4,8 @@ from selenium.webdriver.common.keys import Keys
 import time
 
 #Google acc info
-usr = 'zaibowang' 
-pw = 'asdqwe12'
+usr = '' 
+pw = ''
 
 #Log in to google account
 print('Logging into account`')
